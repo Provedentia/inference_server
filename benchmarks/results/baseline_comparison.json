@@ -1,0 +1,16 @@
+{
+  "hardware": {
+    "cpu": "arm",
+    "cores": 8,
+    "platform": "macOS-26.3.1-arm64-arm-64bit"
+  },
+  "nexus": {
+    "rps": 20936.66,
+    "p50_ms": 3.74,
+    "p75_ms": 3.92,
+    "p90_ms": 5.47,
+    "p99_ms": 59.52,
+    "transfer_per_sec": "2.42MB",
+    "total_requests": 211544
+  }
+}

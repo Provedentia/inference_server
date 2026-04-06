@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/batcher_test.dir/tests/batcher_test.cpp.o CMakeFiles/batcher_test.dir/src/batcher.cpp.o CMakeFiles/batcher_test.dir/src/metrics.cpp.o -o batcher_test  -lpthread

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/suhaibaden/Documents/inference_server/nexus/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

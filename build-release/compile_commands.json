@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/Users/suhaibaden/Documents/inference_server/nexus/build-release",
+  "command": "/usr/bin/c++  -I/Users/suhaibaden/Documents/inference_server/nexus/include -O3 -DNDEBUG -std=gnu++17 -arch arm64 -O3 -march=native -DNDEBUG -o CMakeFiles/nexus.dir/src/main.cpp.o -c /Users/suhaibaden/Documents/inference_server/nexus/src/main.cpp",
+  "file": "/Users/suhaibaden/Documents/inference_server/nexus/src/main.cpp",
+  "output": "CMakeFiles/nexus.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/suhaibaden/Documents/inference_server/nexus/build-release",
+  "command": "/usr/bin/c++  -I/Users/suhaibaden/Documents/inference_server/nexus/include -O3 -DNDEBUG -std=gnu++17 -arch arm64 -O3 -march=native -DNDEBUG -o CMakeFiles/nexus.dir/src/acceptor.cpp.o -c /Users/suhaibaden/Documents/inference_server/nexus/src/acceptor.cpp",
+  "file": "/Users/suhaibaden/Documents/inference_server/nexus/src/acceptor.cpp",
+  "output": "CMakeFiles/nexus.dir/src/acceptor.cpp.o"
+},
+{
+  "directory": "/Users/suhaibaden/Documents/inference_server/nexus/build-release",
+  "command": "/usr/bin/c++  -I/Users/suhaibaden/Documents/inference_server/nexus/include -O3 -DNDEBUG -std=gnu++17 -arch arm64 -O3 -march=native -DNDEBUG -o CMakeFiles/nexus.dir/src/thread_pool.cpp.o -c /Users/suhaibaden/Documents/inference_server/nexus/src/thread_pool.cpp",
+  "file": "/Users/suhaibaden/Documents/inference_server/nexus/src/thread_pool.cpp",
+  "output": "CMakeFiles/nexus.dir/src/thread_pool.cpp.o"
+},
+{
+  "directory": "/Users/suhaibaden/Documents/inference_server/nexus/build-release",
+  "command": "/usr/bin/c++  -I/Users/suhaibaden/Documents/inference_server/nexus/include -O3 -DNDEBUG -std=gnu++17 -arch arm64 -O3 -march=native -DNDEBUG -o CMakeFiles/nexus.dir/src/batcher.cpp.o -c /Users/suhaibaden/Documents/inference_server/nexus/src/batcher.cpp",
+  "file": "/Users/suhaibaden/Documents/inference_server/nexus/src/batcher.cpp",
+  "output": "CMakeFiles/nexus.dir/src/batcher.cpp.o"
+},
+{
+  "directory": "/Users/suhaibaden/Documents/inference_server/nexus/build-release",
+  "command": "/usr/bin/c++  -I/Users/suhaibaden/Documents/inference_server/nexus/include -O3 -DNDEBUG -std=gnu++17 -arch arm64 -O3 -march=native -DNDEBUG -o CMakeFiles/nexus.dir/src/metrics.cpp.o -c /Users/suhaibaden/Documents/inference_server/nexus/src/metrics.cpp",
+  "file": "/Users/suhaibaden/Documents/inference_server/nexus/src/metrics.cpp",
+  "output": "CMakeFiles/nexus.dir/src/metrics.cpp.o"
+},
+{
+  "directory": "/Users/suhaibaden/Documents/inference_server/nexus/build-release",
+  "command": "/usr/bin/c++  -I/Users/suhaibaden/Documents/inference_server/nexus/include -O3 -DNDEBUG -std=gnu++17 -arch arm64 -fsanitize=thread -O1 -g -o CMakeFiles/nexus_tsan.dir/src/main.cpp.o -c /Users/suhaibaden/Documents/inference_server/nexus/src/main.cpp",
+  "file": "/Users/suhaibaden/Documents/inference_server/nexus/src/main.cpp",
+  "output": "CMakeFiles/nexus_tsan.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/suhaibaden/Documents/inference_server/nexus/build-release",
+  "command": "/usr/bin/c++  -I/Users/suhaibaden/Documents/inference_server/nexus/include -O3 -DNDEBUG -std=gnu++17 -arch arm64 -fsanitize=thread -O1 -g -o CMakeFiles/nexus_tsan.dir/src/acceptor.cpp.o -c /Users/suhaibaden/Documents/inference_server/nexus/src/acceptor.cpp",
+  "file": "/Users/suhaibaden/Documents/inference_server/nexus/src/acceptor.cpp",
+  "output": "CMakeFiles/nexus_tsan.dir/src/acceptor.cpp.o"
+},
+{
+  "directory": "/Users/suhaibaden/Documents/inference_server/nexus/build-release",
+  "command": "/usr/bin/c++  -I/Users/suhaibaden/Documents/inference_server/nexus/include -O3 -DNDEBUG -std=gnu++17 -arch arm64 -fsanitize=thread -O1 -g -o CMakeFiles/nexus_tsan.dir/src/thread_pool.cpp.o -c /Users/suhaibaden/Documents/inference_server/nexus/src/thread_pool.cpp",
+  "file": "/Users/suhaibaden/Documents/inference_server/nexus/src/thread_pool.cpp",
+  "output": "CMakeFiles/nexus_tsan.dir/src/thread_pool.cpp.o"
+},
+{
+  "directory": "/Users/suhaibaden/Documents/inference_server/nexus/build-release",
+  "command": "/usr/bin/c++  -I/Users/suhaibaden/Documents/inference_server/nexus/include -O3 -DNDEBUG -std=gnu++17 -arch arm64 -fsanitize=thread -O1 -g -o CMakeFiles/nexus_tsan.dir/src/batcher.cpp.o -c /Users/suhaibaden/Documents/inference_server/nexus/src/batcher.cpp",
+  "file": "/Users/suhaibaden/Documents/inference_server/nexus/src/batcher.cpp",
+  "output": "CMakeFiles/nexus_tsan.dir/src/batcher.cpp.o"
+},
+{
+  "directory": "/Users/suhaibaden/Documents/inference_server/nexus/build-release",
+  "command": "/usr/bin/c++  -I/Users/suhaibaden/Documents/inference_server/nexus/include -O3 -DNDEBUG -std=gnu++17 -arch arm64 -fsanitize=thread -O1 -g -o CMakeFiles/nexus_tsan.dir/src/metrics.cpp.o -c /Users/suhaibaden/Documents/inference_server/nexus/src/metrics.cpp",
+  "file": "/Users/suhaibaden/Documents/inference_server/nexus/src/metrics.cpp",
+  "output": "CMakeFiles/nexus_tsan.dir/src/metrics.cpp.o"
+},
+{
+  "directory": "/Users/suhaibaden/Documents/inference_server/nexus/build-release",
+  "command": "/usr/bin/c++  -I/Users/suhaibaden/Documents/inference_server/nexus/include -O3 -DNDEBUG -std=gnu++17 -arch arm64 -fsanitize=thread -O1 -g -o CMakeFiles/queue_stress.dir/tests/queue_stress.cpp.o -c /Users/suhaibaden/Documents/inference_server/nexus/tests/queue_stress.cpp",
+  "file": "/Users/suhaibaden/Documents/inference_server/nexus/tests/queue_stress.cpp",
+  "output": "CMakeFiles/queue_stress.dir/tests/queue_stress.cpp.o"
+},
+{
+  "directory": "/Users/suhaibaden/Documents/inference_server/nexus/build-release",
+  "command": "/usr/bin/c++  -I/Users/suhaibaden/Documents/inference_server/nexus/include -O3 -DNDEBUG -std=gnu++17 -arch arm64 -o CMakeFiles/batcher_test.dir/tests/batcher_test.cpp.o -c /Users/suhaibaden/Documents/inference_server/nexus/tests/batcher_test.cpp",
+  "file": "/Users/suhaibaden/Documents/inference_server/nexus/tests/batcher_test.cpp",
+  "output": "CMakeFiles/batcher_test.dir/tests/batcher_test.cpp.o"
+},
+{
+  "directory": "/Users/suhaibaden/Documents/inference_server/nexus/build-release",
+  "command": "/usr/bin/c++  -I/Users/suhaibaden/Documents/inference_server/nexus/include -O3 -DNDEBUG -std=gnu++17 -arch arm64 -o CMakeFiles/batcher_test.dir/src/batcher.cpp.o -c /Users/suhaibaden/Documents/inference_server/nexus/src/batcher.cpp",
+  "file": "/Users/suhaibaden/Documents/inference_server/nexus/src/batcher.cpp",
+  "output": "CMakeFiles/batcher_test.dir/src/batcher.cpp.o"
+},
+{
+  "directory": "/Users/suhaibaden/Documents/inference_server/nexus/build-release",
+  "command": "/usr/bin/c++  -I/Users/suhaibaden/Documents/inference_server/nexus/include -O3 -DNDEBUG -std=gnu++17 -arch arm64 -o CMakeFiles/batcher_test.dir/src/metrics.cpp.o -c /Users/suhaibaden/Documents/inference_server/nexus/src/metrics.cpp",
+  "file": "/Users/suhaibaden/Documents/inference_server/nexus/src/metrics.cpp",
+  "output": "CMakeFiles/batcher_test.dir/src/metrics.cpp.o"
+},
+{
+  "directory": "/Users/suhaibaden/Documents/inference_server/nexus/build-release",
+  "command": "/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -I/Users/suhaibaden/Documents/inference_server/nexus/include -isystem /opt/homebrew/include -O3 -DNDEBUG -std=gnu++17 -arch arm64 -o CMakeFiles/queue_benchmark.dir/benchmarks/queue_benchmark.cpp.o -c /Users/suhaibaden/Documents/inference_server/nexus/benchmarks/queue_benchmark.cpp",
+  "file": "/Users/suhaibaden/Documents/inference_server/nexus/benchmarks/queue_benchmark.cpp",
+  "output": "CMakeFiles/queue_benchmark.dir/benchmarks/queue_benchmark.cpp.o"
+}
+]

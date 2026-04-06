@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names -fsanitize=thread CMakeFiles/nexus_tsan.dir/src/main.cpp.o CMakeFiles/nexus_tsan.dir/src/acceptor.cpp.o CMakeFiles/nexus_tsan.dir/src/thread_pool.cpp.o CMakeFiles/nexus_tsan.dir/src/batcher.cpp.o CMakeFiles/nexus_tsan.dir/src/metrics.cpp.o -o nexus_tsan  -lpthread
